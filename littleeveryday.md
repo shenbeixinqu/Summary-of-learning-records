@@ -9,6 +9,7 @@
 - 01/16  星期六   晴
 
   ```shell
+  # vue 10个视频
   1-cli3创建项目
   2-cli3配置文件查看和修改
   3-箭头函数的使用和this指向
@@ -20,3 +21,16 @@
   9-router-link的其他属性
   10-通过代码跳转路由
   ```
+
+- 01/17  星期日  晴
+
+  ```shell
+  # vue5个视频
+  1-vue-router动态路由的使用
+  2-vue-router打包文件的解析
+  3-vue-router路由懒加载
+  4-vur-router路由的嵌套
+  5-vue-router参数传递
+  ```
+
+  
