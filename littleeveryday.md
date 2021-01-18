@@ -33,4 +33,16 @@
   5-vue-router参数传递
   ```
 
+- 01/18  星期一  晴
+
+  ```shell
+  # vue5个视频
+  1-vue-router和route的由来
+  2-vue-router全局导航守卫
+  3-vue-router导航守卫的补充
+  4-vue-router keep-alive
+  5-vue-router keep-alive属性
+  ```
+
   
+
