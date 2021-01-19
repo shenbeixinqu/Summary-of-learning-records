@@ -44,5 +44,15 @@
   5-vue-router keep-alive属性
   ```
 
+- 01/19  星期二  晴
+
+  ```shell
+  # vue4个视频
+  1-tabbar基本结构的搭建
+  2-tabbar和tabbarItem组件封装
+  3-传入active图片
+  4-组件与路由结合
+  ```
+
   
 
