@@ -75,7 +75,18 @@
 - 01/23  星期六  晴
 
   ```shell
+  # vue1个视频
   1-devtools和mutations
+```
+
+- 01/24  星期日  晴
+
+  ```shell
+  # vue4个视频
+  1-state单一状态树
+  2-getter的使用
+  3-mutation携带参数
+  4-mutation提交fengge
   ```
 
   
