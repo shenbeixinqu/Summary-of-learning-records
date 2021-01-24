@@ -82,11 +82,13 @@
 - 01/24  星期日  晴
 
   ```shell
-  # vue4个视频
+  # vue6个视频
   1-state单一状态树
   2-getter的使用
   3-mutation携带参数
   4-mutation提交fengge
+  5-数据的响应式原理
+  6-mutation类型常量
   ```
 
   
