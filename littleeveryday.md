@@ -77,19 +77,30 @@
   ```shell
   # vue1个视频
   1-devtools和mutations
-```
-
+  ```
 - 01/24  星期日  晴
 
   ```shell
-  # vue6个视频
-  1-state单一状态树
-  2-getter的使用
-  3-mutation携带参数
-  4-mutation提交fengge
-  5-数据的响应式原理
-  6-mutation类型常量
+    # vue6个视频
+    1-state单一状态树
+    2-getter的使用
+    3-mutation携带参数
+    4-mutation提交fengge
+    5-数据的响应式原理
+    6-mutation类型常量
   ```
+
+- 01/25  星期一  晴
+
+  ```shell
+  # vue4个视频
+  1-action的使用
+  2-module的使用
+  3-vue-store文件夹的目录组织
+  4-网络请求模块axios
+  ```
+
+  
 
   
 
